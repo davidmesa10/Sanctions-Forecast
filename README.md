@@ -1,5 +1,5 @@
 # Sanctions-Forecast
-Project related to Sanctions Forecast 
+Project related to Sanctions Forecast using R 
 
 # Cargar librerías necesarias
 library(tidyverse)
